@@ -1,6 +1,6 @@
 To Emacs: This is a -*-text-*- file.
 
-1. How do I start the applet from the command line?
+1. How do I start the app from the command line?
 
 Change to the bubblemon directory and do the following:
 
